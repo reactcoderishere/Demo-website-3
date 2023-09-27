@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-color:aqua;
+}
+.hero-img{
+    /* height: 10rem; */
+    width: 10rem;
+}
+.hero-c{
+    height: 100vh;
+}
+.header-img{
+    width:15rem ;
+    /* height: 15rem; */
+}
+.about{
+    height: 100vh;
+    width: 100%;
+    background-color:aqua;
+}
+.about-text-left{
+    margin-left: 15rem;
+}
+.about-text-right{
+    margin-right: 15rem;
+}
+.input-contact{
+    padding: 0.7rem 6rem;
+}
